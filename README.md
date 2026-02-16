@@ -20,16 +20,24 @@ An end-to-end research assistant that plans a topic outline, generates academic 
 
 ## Install & Run
 
-### macOS
+### macOS (double-click)
+- `mac/install_macos.command`
+- `mac/run_macos.command`
+
+### macOS (terminal)
 ```bash
-bash mac/install_macos.sh
-bash mac/run_macos.sh
+bash mac/install_macos.command
+bash mac/run_macos.command
 ```
 
-### Windows
+### Windows (double-click)
+- `windows\install_win.cmd`
+- `windows\run_win.cmd`
+
+### Windows (terminal)
 ```bat
-windows\install_win.bat
-windows\run_win.bat
+windows\install_win.cmd
+windows\run_win.cmd
 ```
 
 ### Manual (all platforms)
