@@ -1,0 +1,14 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.sqlite
+.streamlit/
+research_assistant_data/
+downloads/
+dist/
+build/
+.idea/
+.vscode/

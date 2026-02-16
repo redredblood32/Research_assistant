@@ -1,0 +1,13 @@
+streamlit
+pywebview
+pyinstaller
+streamlit_autorefresh
+semanticscholar
+wikipedia
+openpyxl
+selenium
+webdriver_manager
+streamlit_pdf_viewer
+habanero
+markdown
+requests
