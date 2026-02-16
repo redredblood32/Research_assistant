@@ -1,30 +1,30 @@
 # Query Guide
 
-This app works best when the **Research Topic** is specific enough to guide section planning and academic search queries. Use the patterns below to frame effective topics.
+This app works best when the **Research Topic** is written as a clear goal statement. A strong pattern is:
+
+> **"I want to write a thesis/proposal/paper about _[topic]_ in _[domain/context]_, focusing on _[scope/constraint]_, using _[method]_, during _[timeframe]_."**
 
 **Best Practices**
-- Start with a clear topic or problem area.
+- Start with a single primary topic.
+- Use a goal-oriented sentence (thesis/proposal/paper/etc.).
 - Add scope: domain, population, geography, or application.
-- Add constraints: timeframe, methods, or evaluation focus.
-- Include key synonyms or alternate terms if they are common in the literature.
-- Keep it to one primary topic (avoid unrelated combined topics).
+- Add constraints: timeframe, methods, data sources, or evaluation focus.
+- Include common synonyms or alternative terms if they appear in the literature.
 
 **Good Examples**
-- Generative agents in social simulations: evaluation methods and emergent behavior metrics (2018-2025)
-- LLM-based clinical decision support in radiology: accuracy, safety, and regulation (2019-2024)
-- Graph neural networks for molecular property prediction: benchmark datasets and generalization
-- Privacy-preserving federated learning in healthcare: threat models and mitigation strategies
-- Carbon capture using metal-organic frameworks: adsorption mechanisms and scalability
-- Real-time sentiment analysis for financial markets: model drift and deployment constraints
-- Neural retrieval-augmented generation: hallucination mitigation and citation quality
+- I want to write a thesis about using agent-based modeling in health economics, focusing on policy evaluation and cost-effectiveness.
+- I want to write a proposal about LLM-based clinical decision support in radiology, focusing on safety, accuracy, and regulation (2019-2024).
+- I want to write a paper about graph neural networks for molecular property prediction, focusing on benchmarks and generalization.
+- I want to write a thesis about privacy-preserving federated learning in healthcare, focusing on threat models and mitigation strategies.
+- I want to write a proposal about carbon capture using metal-organic frameworks, focusing on adsorption mechanisms and scalability.
 
 **Rewrite These**
 1. Bad: "AI in healthcare"
-   Better: "LLM-based clinical decision support in radiology: accuracy, safety, and regulation (2019-2024)"
+   Better: "I want to write a thesis about LLM-based clinical decision support in radiology, focusing on safety, accuracy, and regulation (2019-2024)."
 2. Bad: "GNNs"
-   Better: "Graph neural networks for molecular property prediction: benchmark datasets and generalization"
+   Better: "I want to write a paper about graph neural networks for molecular property prediction, focusing on benchmarks and generalization."
 3. Bad: "Climate change"
-   Better: "Carbon capture using metal-organic frameworks: adsorption mechanisms and scalability"
+   Better: "I want to write a proposal about carbon capture using metal-organic frameworks, focusing on adsorption mechanisms and scalability."
 
 **Manual Search Field**
 - Paste a single DOI or arXiv ID only.

@@ -8,7 +8,7 @@ An end-to-end research assistant that plans a topic outline, generates academic 
 ## Features
 - LLM-assisted topic planning and query generation
 - Academic search with relevance scoring
-- PDF and RIS handling with download tracking
+- PDF and RIS handling
 - Session/project persistence with exports to Excel
 - Optional Chrome automation for PDF retrieval
 
@@ -71,7 +71,7 @@ RESEARCH_ASSISTANT_DATA_ROOT=/path/to/data
 ```
 
 ## Usage
-1. Enter a **Research Topic** in the main field.
+1. Enter a **Research Topic** as a goal statement (e.g., "I want to write a thesis about using agent-based modeling in health economics...").
 2. Click **Start Research** to run the agent flow.
 3. Review the generated plan, search queries, and ranked papers.
 4. Export results to Excel using **Export Full Excel**.
@@ -82,6 +82,7 @@ For topic framing examples and best practices, see `QUERY_GUIDE.md`.
 - `research_assistant_data/projects/` stores projects and sessions
 - Excel exports are saved per session inside the project folder
 - PDFs and RIS files are stored under the project’s data directories
+- Note: download tracking is not enabled in this build
 
 ## Troubleshooting
 - **Missing API keys**: The app will warn you in the sidebar if a key is required.
